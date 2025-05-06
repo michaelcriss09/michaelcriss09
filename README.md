@@ -27,7 +27,7 @@
 - :technologist: Currently pursuing a college degree as `Computational Science Engineer`
 - :boom: Devops Enthusiast
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Michael&amp;color=EA4335&amp;style=flat-square)](mailto:work.crisostomo@gmail.com)
-- :nerd_face: Everyday, no matters what, keep improving!
+- :nerd_face: Every day, no matter what, keep improving!
 
   ### Posts
 
