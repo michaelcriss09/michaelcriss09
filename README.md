@@ -23,7 +23,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am `Michael` 
+- :school: I am `Michael`!
 - :technologist: Currently pursuing a college degree as `Computational Science Engineer`
 - :boom: Devops Enthusiast
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Michael&amp;color=EA4335&amp;style=flat-square)](mailto:work.crisostomo@gmail.com)
