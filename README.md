@@ -28,7 +28,7 @@
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Michael&amp;color=EA4335&amp;style=flat-square)](mailto:work.crisostomo@gmail.com)
 - :nerd_face: Everyday, no matters what, keep improving!
 
-  ### Some Projects
+  ### Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploying serverless application on AWS Cloud](https://www.linkedin.com/posts/michael-d-cris%C3%B3stomo-10706423a_serverless-application-deployment-on-aws-activity-7273372351348498433-IOH8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtz4ZcBz7xHHAntAuuc4Zrt8XQue4DZZ5Q)
