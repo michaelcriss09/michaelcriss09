@@ -1,6 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![Portada](https://i.postimg.cc/pL41nvn8/portada.png)
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
@@ -8,8 +9,6 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm Michael Crisostomo</h1></summary>
   </ul>
 </div>
-
-![Portada](https://i.postimg.cc/pL41nvn8/portada.png)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-d-crisóstomo-10706423a" target="_blank">
