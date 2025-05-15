@@ -9,6 +9,8 @@
   </ul>
 </div>
 
+![Portada](https://i.postimg.cc/pL41nvn8/portada.png)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-d-crisóstomo-10706423a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -21,7 +23,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am `Michael`!
 - :technologist: Currently pursuing a college degree as `Computational Science Engineer`
